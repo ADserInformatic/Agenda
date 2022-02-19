@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "text": "Investigar sobre boostrap",
+      "day": "Agosto 5 a las 1:00",
+      "reminder": true
+    },
+    {
+      "id": 4,
+      "text": "Leer mi libro favorito",
+      "day": "Agosto 5 a las 18:00",
+      "reminder": true
+    },
+    {
+      "text": "Nueva tarea",
+      "day": "9 de Julio",
+      "reminder": true,
+      "id": 5
+    }
+  ]
+}
